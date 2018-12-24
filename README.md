@@ -1,4 +1,4 @@
-"# jme3-wishlist" 
+# jme3-wishlist
 
 - asset manager -- too closed, too complex, no way to customize logic, hardcoded asset locator chains
 - the gui bucket hell -- just let go
